@@ -17,17 +17,12 @@ The app provides an interactive interface to enter your profile details or searc
 
 ## Getting Started
 To run this Streamlit app locally:
+**1. Clone this repository
+2. Install dependencies**
+_pip install -r requirements.txt_
+**3. Get data** (Datasets not included in repository due to privacy restriction
+**4. Run the app**
+_streamlit run app.py_
 
-Clone this repository
-Install dependencies
-
-
-pip install -r requirements.txt
-Get data (Datasets not included in repository due to privacy restrictions)
-Run the app
-
-
-streamlit run app.py
 Without the actual jobs dataset, the app functionality will be limited.
-
 Let me know if you need any other specifics on configuring and running the app or if you have any other questions!
